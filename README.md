@@ -41,7 +41,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 
 ## Contributing
 
-We welcome all kinds of contributions! You can:
+I welcome all kinds of contributions! You can:
 
 - Create new pages
 - Improve layouts
@@ -63,7 +63,3 @@ Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 This project is licensed under the **MIT License**.
 
 ---
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **SwiftCart**!
