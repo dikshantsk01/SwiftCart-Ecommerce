@@ -21,7 +21,7 @@ This repo is **frontend only** – contributors can improve the design, add new 
 1. Clone the repo
 
     ```bash
-    git clone https://github.com/GreatStackDev/SwiftCart.git
+    git clone https://github.com/dikshantsk01/SwiftCart-Ecommerce.git
     cd SwiftCart
     ```
 
